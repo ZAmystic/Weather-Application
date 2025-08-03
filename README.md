@@ -4,7 +4,7 @@ This C# console application fetches and displays detailed weather forecasts for 
 
 ## 🔍 How It Works
 
-- Accepts user input for a South African city name
+- Accepts user input for a city name
 - Sends an HTTP GET request to the Visual Crossing API
 - Parses and converts weather data (Fahrenheit → Celsius)
 - Displays multi-day forecasts in the console, including:
