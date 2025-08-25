@@ -14,7 +14,7 @@ This lightweight app transforms your console into a personal weather station. Si
 4. **Output Display**: Presents a clean, multi-day forecast in the console, complete with day-of-week labels, temperature ranges, and weather descriptions.
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1409660132521939116/1409660149248954489/image.png?ex=68ae2fd1&is=68acde51&hm=fa5811541158e4166027e90055ea3080ce6a57ee9bd00ac1c904f9230fe2dff8&">
+  <img height="1000px" src="https://cdn.discordapp.com/attachments/1409660132521939116/1409660149248954489/image.png?ex=68ae2fd1&is=68acde51&hm=fa5811541158e4166027e90055ea3080ce6a57ee9bd00ac1c904f9230fe2dff8&">
 </div>
 
 ## ✨ Key Features
