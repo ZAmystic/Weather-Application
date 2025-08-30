@@ -78,4 +78,4 @@ Contributions are welcome! Feel free to submit pull requests for bug fixes, new 
 
 ---
 
-Built with ☕ and curiosity. If you encounter issues or have suggestions, open an issue on GitHub!
+Built with ☕ and curiosity. If you encounter issues or have suggestions, open an issue on GitHub
